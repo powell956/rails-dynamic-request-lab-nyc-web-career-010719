@@ -31,6 +31,7 @@ describe 'Show page' do
 
   it 'renders the first name in a h1 tag' do
     visit "students/#{@student.id}"
+    byebug
     expect(page).to have_css("h1", text: "Daenerys")
   end
 

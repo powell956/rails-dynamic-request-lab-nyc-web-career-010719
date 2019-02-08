@@ -20,9 +20,9 @@ There are three RSpec/Capybara specs in this lesson; you can find them in `spec/
 
 In this lab, you will work through the full MVC pattern by building a student management app for The Flatiron School. At a high level, you will integrate the following scenario in your application:
 
-1. The user is able to go to `/students/2` to receive information on the student with an id of `2`
+- [ ] The user is able to go to `/students/2` to receive information on the student with an id of `2`
 
-2. The application should render the values from the `student` record in the database
+- [ ] The application should render the values from the `student` record in the database
 
 
 ## Keys to remember
